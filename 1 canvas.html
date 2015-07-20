@@ -3,10 +3,24 @@
 <head lang="en">
     <meta charset="UTF-8">
     <title>Document</title>
+    <style>
+
+        canvas {
+            border: 1px solid gray;
+        }
+
+    </style>
 </head>
 <body>
-    <canvas></canvas>
+    <canvas width="600" height="300"></canvas>
+
     <script>
+
+        // todo: Find the height and width
+        var canvas = document.querySelector('canvas');
+        console.log(canvas.height); // 150
+        console.log(canvas.width); // 300
+        console.log(canvas.style.height); // empty or non-existent
 
     </script>
 </body>

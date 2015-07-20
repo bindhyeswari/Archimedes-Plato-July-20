@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+
+    <img src="nature.jpg" alt="Nature"/>
+    <canvas></canvas>
+
+    <script>
+
+        var canvas = document.querySelector('canvas');
+        // context
+        var context = canvas.getContext('2d'); // 'webgl' - 3d context
+
+        // create an image
+
+        var img = new Image();
+        img.src = 'nature.jpg';
+        img.addEventListener('load', function () {
+            console.log('Image is loaded ... ');
+        });
+
+
+    </script>
+
+</body>
+</html>
