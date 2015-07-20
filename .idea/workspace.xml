@@ -34,18 +34,38 @@
       <file leaf-file-name="2 RenderingContext.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2 RenderingContext.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.591837">
-              <caret line="51" column="67" selection-start-line="51" selection-start-column="64" selection-end-line="51" selection-end-column="67" />
+            <state vertical-scroll-proportion="-4.897959">
+              <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3 Drawing Rectangles.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 Drawing Rectangles.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.285714">
+              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3 Drawing Rectangles - 2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 Drawing Rectangles - 2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.102041">
+              <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.055762082">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state vertical-scroll-proportion="-1.9444444">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -54,11 +74,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="3 Drawing Paths.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3 Drawing Paths.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5524862">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="2 Zoom.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2 Zoom.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.4285715">
-              <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+              <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -84,9 +114,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/1 canvas.html" />
-        <option value="$PROJECT_DIR$/2 RenderingContext.html" />
         <option value="$PROJECT_DIR$/2 Zoom.html" />
+        <option value="$PROJECT_DIR$/2 RenderingContext.html" />
+        <option value="$PROJECT_DIR$/3 Drawing Rectangles.html" />
+        <option value="$PROJECT_DIR$/4 DrawingRectangles.html" />
+        <option value="$PROJECT_DIR$/3 Drawing Rectangles - 2.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/3 Drawing Paths.html" />
       </list>
     </option>
   </component>
@@ -216,28 +250,52 @@
     <entry file="file://$PROJECT_DIR$/2 Zoom.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.4285715">
-          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2 RenderingContext.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.591837">
-          <caret line="51" column="67" selection-start-line="51" selection-start-column="64" selection-end-line="51" selection-end-column="67" />
+        <state vertical-scroll-proportion="-4.897959">
+          <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 Drawing Rectangles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.285714">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 Drawing Rectangles - 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.102041">
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.055762082">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state vertical-scroll-proportion="-1.9444444">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 Drawing Paths.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5524862">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

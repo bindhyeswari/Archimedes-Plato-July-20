@@ -50,6 +50,10 @@
         img.addEventListener('load', function () {
             console.log('Image is loaded ... ');
             context.drawImage(img, 75, 75, 150, 150, 0, 0, 600, 600);
+            context.font = '30px Helvetica';
+            context.fillStyle = 'white';
+            context.fillText('Alejandro Munoz', 20, 20);
+            // todo: Increase font size
         });
 
         document.addEventListener('readystatechange', function () {
