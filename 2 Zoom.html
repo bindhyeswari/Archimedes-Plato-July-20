@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <meta name="description" content="Create a zoom for the image on the canvas ... "/>
+    <style>
+        canvas {
+            /*border: 1px solid gray;*/
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+    </style>
+</head>
+<body>
+
+    <img src="nature.jpg" alt="nature"/>
+    <canvas width="400" height="300"></canvas>
+
+    <script>
+
+
+        // access the canvas element
+        var canvas = document.querySelector('canvas');
+        // access the 2d context
+        var context = canvas.getContext('2d'); // 'webgl' - 3d context
+        // load the image
+        var img = document.querySelector('img');
+        document.addEventListener('readystatechange', function () {
+            if (document.readyState === 'complete') {
+                // finished loading document's async data
+                img.addEventListener('mousemove', function (event) {
+                    var position = new Position(event.clientX, event.clientY);
+                    imageZoom(this, context, position);
+                });
+            }
+        });
+
+        function Position(x, y) {
+            this.x = x;
+            this.y = y;
+        }
+
+        var globals = {
+            // global parameters for the zoom
+            sHeight: 50,
+            sWidth: 50,
+            scale: 2
+        };
+
+        function imageZoom(img, context, position) {
+            // load a portion of the image onto the canvas
+            console.log(img, context, position);
+            var sx = position.x - globals.sWidth / 2;
+            var sy = position.x - globals.sHeight / 2;
+
+            // todo: finish this code ...
+
+        }
+
+
+
+    </script>
+
+</body>
+</html>
